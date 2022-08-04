@@ -1,1 +1,1 @@
-declare module 'mini-lz4'
+declare module 'mini-lz4';
